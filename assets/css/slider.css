@@ -199,10 +199,10 @@ svg {
 }
 .slide:nth-child(1) .slide__bg {
   left: 0;
-  background-image: url("../img/slider3.jpg");
+  background-image: url("../img/besuto.png");
 }
 .slide:nth-child(1) .slide__overlay-path {
-  fill: rgb(155, 70, 243);
+  fill: rgb(255, 102, 0);
 }
 @media (max-width: 991px) {
   .slide:nth-child(1) .slide__text {
@@ -214,7 +214,7 @@ svg {
 }
 .slide:nth-child(2) .slide__bg {
   left: -50%;
-  background-image: url("../img/slider2.jpg");
+  background-image: url("../img/new_cbm_logo_color.png");
 }
 .slide:nth-child(2) .slide__overlay-path {
   fill: rgb(255, 66, 0);
